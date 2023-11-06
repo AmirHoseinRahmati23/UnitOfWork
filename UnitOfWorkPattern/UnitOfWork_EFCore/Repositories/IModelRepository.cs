@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UnitOfWork_EFCore
+namespace UnitOfWork_EFCore.Repositories
 {
     public interface IModelRepository
     {
