@@ -1,0 +1,12 @@
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\bin\Debug\net6.0\UnitOfWork_EFCore.deps.json
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\bin\Debug\net6.0\UnitOfWork_EFCore.dll
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\bin\Debug\net6.0\UnitOfWork_EFCore.pdb
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\obj\Debug\net6.0\UnitOfWork_EFCore.csproj.AssemblyReference.cache
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\obj\Debug\net6.0\UnitOfWork_EFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\obj\Debug\net6.0\UnitOfWork_EFCore.AssemblyInfoInputs.cache
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\obj\Debug\net6.0\UnitOfWork_EFCore.AssemblyInfo.cs
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\obj\Debug\net6.0\UnitOfWork_EFCore.csproj.CoreCompileInputs.cache
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\obj\Debug\net6.0\UnitOfWork_EFCore.dll
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\obj\Debug\net6.0\refint\UnitOfWork_EFCore.dll
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\obj\Debug\net6.0\UnitOfWork_EFCore.pdb
+E:\My Files\Project\Github\UnitOfWork\UnitOfWorkPattern\UnitOfWork_EFCore\obj\Debug\net6.0\ref\UnitOfWork_EFCore.dll
