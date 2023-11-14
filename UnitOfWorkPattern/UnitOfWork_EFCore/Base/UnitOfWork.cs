@@ -65,9 +65,16 @@ namespace UnitOfWork_EFCore.Base
 						{
 							//optionsBuilder.UseInMemoryDatabase(databaseName: "InMemoryTemp");
 
-							break;
+						break;
 						}
 
+						case Tools.Enums.Provider.MongoDB:
+						{
+								//var MongoDbDatabase = new MongoClient(Options.ConnectionString)
+								//	.GetDataBase(Options.DatabaseName);
+								//optionsBuilder.UseMongoDB(MongoDbDatabase.Client, MongoDbDatabase.DatabaseNamespace.DatabaseName);
+								break;
+						}
 						default:
 						{
 							break;

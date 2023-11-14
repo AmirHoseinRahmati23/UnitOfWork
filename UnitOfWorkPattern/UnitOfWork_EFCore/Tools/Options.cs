@@ -11,5 +11,8 @@ namespace UnitOfWork_EFCore.Tools
 		public Provider Provider { get; set; }
 
 		public string? ConnectionString { get; set; }
+
+		// In Case Of MongoDB:
+		//public string DatabaseName { get; set;}
 	}
 }

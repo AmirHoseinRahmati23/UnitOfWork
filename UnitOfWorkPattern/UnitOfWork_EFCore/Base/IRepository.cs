@@ -12,7 +12,10 @@ namespace UnitOfWork_EFCore.Base
         public IList<T> GetAll();
         public Task<IList<T>> GetAllAsync();
 
+        // ObjectId Input In Case Of MongoDB
         public T? GetById(Guid id);
+
+        // ObjectId Input In Case Of MongoDB
         public Task<T?> GetByIdAsync(Guid id);
 
         public void Insert(T entity);
@@ -24,7 +27,9 @@ namespace UnitOfWork_EFCore.Base
         public void Delete(T entity);
         public Task DeleteAsync(T entity);
 
+        // ObjectId Input In Case Of MongoDB
         public bool DeleteById(Guid id);
+        // ObjectId Input In Case Of MongoDB
         public Task<bool> DeleteByIdAsync(Guid id);
     }
 }

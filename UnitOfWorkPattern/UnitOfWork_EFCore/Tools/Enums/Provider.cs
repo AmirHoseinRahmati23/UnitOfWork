@@ -7,5 +7,6 @@
 		PostgreSQL = 2,
 		Oracle = 3,
 		InMemory = 4,
+		MongoDB = 5,
 	}
 }
