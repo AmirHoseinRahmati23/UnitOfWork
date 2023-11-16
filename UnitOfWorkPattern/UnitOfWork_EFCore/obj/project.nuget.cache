@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yR2FbNHD+R7/PrRbNLVO+fQfZFhFbd6lx21zuLtPemAJoixDNiyQru0Cl5wzVvUw0QKlillgBFkqsk7plFygLA==",
+  "dgSpecHash": "B2EyBfeVdishMYCA3tzFkXcuadKMuVY+cS9VfXH6I1GAYlct7B+qIpIX+Otxd1O9+GQx/G4RsiokZFvYYqJ6SA==",
   "success": true,
-  "projectFilePath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork_EFCore.csproj",
+  "projectFilePath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaran\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\yaran\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",

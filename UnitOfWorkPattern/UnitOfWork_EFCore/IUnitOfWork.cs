@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UnitOfWork_EFCore.Repositories;
+using UnitOfWork.Repositories;
 
-namespace UnitOfWork_EFCore
+namespace UnitOfWork
 {
     public interface IUnitOfWork : Base.IUnitOfWork
     {

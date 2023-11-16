@@ -201,11 +201,24 @@
       "Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Resources": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Models.dll": {}
         },
         "runtime": {
           "bin/placeholder/Models.dll": {}
+        }
+      },
+      "Resources/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Resources.dll": {}
         }
       }
     }
@@ -525,6 +538,11 @@
       "type": "project",
       "path": "../Models/Models.csproj",
       "msbuildProject": "../Models/Models.csproj"
+    },
+    "Resources/1.0.0": {
+      "type": "project",
+      "path": "../Resources/Resources.csproj",
+      "msbuildProject": "../Resources/Resources.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -539,9 +557,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork_EFCore.csproj",
-      "projectName": "UnitOfWork_EFCore",
-      "projectPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork_EFCore.csproj",
+      "projectUniqueName": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork.csproj",
+      "projectName": "UnitOfWork",
+      "projectPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork.csproj",
       "packagesPath": "C:\\Users\\yaran\\.nuget\\packages\\",
       "outputPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\obj\\",
       "projectStyle": "PackageReference",

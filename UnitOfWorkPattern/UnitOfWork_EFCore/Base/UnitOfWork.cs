@@ -5,9 +5,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UnitOfWork_EFCore.Tools;
+using UnitOfWork.Tools;
 
-namespace UnitOfWork_EFCore.Base
+namespace UnitOfWork.Base
 {
     public class UnitOfWork : object, IUnitOfWork
     {

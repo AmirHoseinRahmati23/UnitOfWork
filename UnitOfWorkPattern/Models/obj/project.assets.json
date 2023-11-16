@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Resources/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Resources.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Resources/1.0.0": {
+      "type": "project",
+      "path": "../Resources/Resources.csproj",
+      "msbuildProject": "../Resources/Resources.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Resources >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\yaran\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\Resources\\Resources.csproj": {
+              "projectPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\Resources\\Resources.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UnitOfWork_EFCore.Base;
-using UnitOfWork_EFCore.Repositories;
-using UnitOfWork_EFCore.Temp;
+using UnitOfWork.Base;
+using UnitOfWork.Repositories;
+using UnitOfWork.Temp;
 
-namespace UnitOfWork_EFCore.Services
+namespace UnitOfWork.Services
 {
     public class ModelRepository : Repository<Model>, IModelRepository
     {

@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Models.Base;
-using UnitOfWork_EFCore;
+using UnitOfWork;
 
-namespace UnitOfWork_EFCore.Base
+namespace UnitOfWork.Base
 {
     public class Repository<T> : object, IRepository<T> where T : Entity
     {

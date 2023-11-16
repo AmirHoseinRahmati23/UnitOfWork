@@ -1,4 +1,4 @@
-﻿namespace UnitOfWork_EFCore.Tools.Enums
+﻿namespace UnitOfWork.Tools.Enums
 {
 	public enum Provider : int
 	{

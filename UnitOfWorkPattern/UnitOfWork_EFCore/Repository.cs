@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UnitOfWork_EFCore
+namespace UnitOfWork
 {
     public class Repository<T> : Base.Repository<T> where T : Entity
     {

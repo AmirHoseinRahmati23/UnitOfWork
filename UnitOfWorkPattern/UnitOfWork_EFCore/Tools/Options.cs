@@ -1,6 +1,6 @@
-﻿using UnitOfWork_EFCore.Tools.Enums;
+﻿using UnitOfWork.Tools.Enums;
 
-namespace UnitOfWork_EFCore.Tools
+namespace UnitOfWork.Tools
 {
 	public class Options : object
 	{

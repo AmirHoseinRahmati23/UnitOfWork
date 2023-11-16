@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UnitOfWork_EFCore.Repositories;
-using UnitOfWork_EFCore.Services;
-using UnitOfWork_EFCore.Tools;
+using UnitOfWork.Repositories;
+using UnitOfWork.Services;
+using UnitOfWork.Tools;
 
-namespace UnitOfWork_EFCore
+namespace UnitOfWork
 {
     public class UnitOfWork : Base.UnitOfWork, IUnitOfWork
     {

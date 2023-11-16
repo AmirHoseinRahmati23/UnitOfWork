@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace UnitOfWork_EFCore
+namespace UnitOfWork
 {
     internal class DatabaseContext : DbContext
     {
