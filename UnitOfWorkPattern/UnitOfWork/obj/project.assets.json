@@ -557,11 +557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork.csproj",
+      "projectUniqueName": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork\\UnitOfWork.csproj",
       "projectName": "UnitOfWork",
-      "projectPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork.csproj",
+      "projectPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork\\UnitOfWork.csproj",
       "packagesPath": "C:\\Users\\yaran\\.nuget\\packages\\",
-      "outputPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\obj\\",
+      "outputPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yaran\\AppData\\Roaming\\NuGet\\NuGet.Config",

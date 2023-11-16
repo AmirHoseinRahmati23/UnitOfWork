@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork.csproj": {}
+    "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork\\UnitOfWork.csproj": {}
   },
   "projects": {
     "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\Models\\Models.csproj": {
@@ -118,14 +118,14 @@
         }
       }
     },
-    "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork.csproj": {
+    "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork\\UnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork.csproj",
+        "projectUniqueName": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork\\UnitOfWork.csproj",
         "projectName": "UnitOfWork",
-        "projectPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\UnitOfWork.csproj",
+        "projectPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork\\UnitOfWork.csproj",
         "packagesPath": "C:\\Users\\yaran\\.nuget\\packages\\",
-        "outputPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork_EFCore\\obj\\",
+        "outputPath": "E:\\My Files\\Project\\Github\\UnitOfWork\\UnitOfWorkPattern\\UnitOfWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
